@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pickup1
+  - Door
+  - Pickup2
+  - Pickup3
+  - Location
+  - Keys
+  - Cubes
+  - Paint
+  - Machine
+  - Mixing
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Raycast
+  - 
+  - PostProcessing
+  - 
+  - FirstPersonWeapon
+  - PhysicalAmmo
+  - JumpingPlane
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 788040023
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 3922283465
+    locked: 0
